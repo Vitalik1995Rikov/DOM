@@ -1,0 +1,1 @@
+alert(document.body.lastChild.nodeType); // выведет 1, тип узла - элемент
